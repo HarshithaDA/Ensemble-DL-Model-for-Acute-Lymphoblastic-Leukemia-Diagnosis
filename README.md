@@ -1,1 +1,1 @@
-# Ensemble-DL-Model-for-Acute-Lymphoblastic-Leukemia-Diagnosis-
+# Ensemble-DL-Model-for-Acute-Lymphoblastic-Leukemia-Diagnosis
